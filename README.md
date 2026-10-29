@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @m4rql
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on learing and for now beginner projects
-- 📫 How to reach me @ mbogdan13@yahoo.com
+cooking something
